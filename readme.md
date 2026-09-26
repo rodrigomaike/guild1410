@@ -1,16 +1,18 @@
 # The Guild 1 Remake: Europa 1410 — Tradução PT-BR
 
-Tradução amadora de **The Guild 1 Remake: Europa 1410** para **português brasileiro (PT-BR)**.
+Tradução amadora, não oficial e feita por fãs de **The Guild 1 Remake: Europa 1410** para **português brasileiro (PT-BR)**.
 
 A tradução é focada nos textos do jogo e mantém as vozes originais.
 
-> **Aviso:** esta é uma tradução amadora e pode conter erros de tradução, gramática, contexto ou textos que ainda não foram traduzidos.
+> **Aviso:** este é um projeto independente feito por fãs. Não possui vínculo, afiliação, patrocínio, endosso ou relação oficial com a **Ashborne Games**, desenvolvedora de The Guild 1 Remake: Europa 1410, ou com a **THQ Nordic**, distribuidora do jogo.
+
+> **Importante:** esta tradução não é oficial e pode conter erros de tradução, gramática, contexto, formatação ou textos que ainda não foram traduzidos.
 
 ## Versão testada
 
-A tradução foi testada na versão:
+A tradução foi atualizada e testada na versão:
 
-**0.4.1.25478 [3]**
+**0.4.5.25766 [7]**
 
 Versões diferentes do jogo podem apresentar incompatibilidades, problemas ou textos que não estejam traduzidos.
 
@@ -38,6 +40,8 @@ Copie **todos os arquivos da tradução** para essa pasta.
 
 Os arquivos da tradução devem ficar diretamente dentro da pasta `Paks`, junto dos arquivos originais do jogo.
 
+A tradução não requer a substituição ou exclusão de nenhum arquivo original.
+
 ---
 
 ## 3. Defina o idioma para português
@@ -57,8 +61,6 @@ Adicione:
 ```
 
 Depois, inicie o jogo normalmente pela Steam.
-
----
 
 ### Método 2 — GameUserSettings.ini
 
@@ -171,7 +173,11 @@ Caso isso aconteça, uma nova versão da tradução poderá ser necessária.
 
 ## Aviso sobre a tradução
 
-Esta é uma **tradução amadora e não oficial**.
+Esta é uma **tradução amadora, não oficial e feita por fãs**.
+
+Este projeto é independente e **não possui vínculo, afiliação, patrocínio, endosso ou relação oficial com a Ashborne Games ou a THQ Nordic**.
+
+A tradução é disponibilizada gratuitamente e tem como objetivo disponibilizar **The Guild 1 Remake: Europa 1410** em Português Brasileiro (PT-BR).
 
 Pode haver:
 
@@ -185,12 +191,43 @@ Caso encontre algum erro, você pode abrir uma Issue neste repositório informan
 
 ---
 
+## Changelog
+
+### v1.1 — 26/09/2026
+
+Atualização da tradução para a versão **0.4.5.25766 [7]** do jogo.
+
+- 74 novas entradas traduzidas.
+- 15 textos existentes atualizados.
+- Adicionados os novos textos relacionados às colmeias e abelhas.
+- Adicionados os novos textos do sistema de estoque e armazenamento da produção.
+- Atualizados os textos relacionados à economia e aos detalhes de preços.
+- Adicionados os textos de adoção de crianças.
+- Adicionados os textos da nova ação de repressão ao crime.
+- Adicionados novos textos relacionados à Guild House e ao tutorial.
+- Atualizados textos de reputação, notificações, efeitos, itens e outros conteúdos adicionados ou modificados na atualização.
+
+**Total analisado:** 7.056 entradas.
+
+### v1.0 — 21/09/2026
+
+- Tradução inicial para Português Brasileiro.
+- Tradução dos principais textos do jogo.
+- Testada na versão **0.4.1.25478 [3]**.
+
+---
+
 ## Créditos
 
 **Jogo:** The Guild 1 Remake: Europa 1410  
+**Desenvolvedora:** Ashborne Games  
+**Distribuidora:** THQ Nordic  
 **Idioma:** Português Brasileiro (PT-BR)  
-**Versão testada:** 0.4.1.25478 [3]  
-**Tipo:** Tradução amadora / não oficial
+**Versão da tradução:** 1.1  
+**Versão testada:** 0.4.5.25766 [7]  
+**Tipo:** Tradução amadora / não oficial / feita por fãs
+
+Este projeto é independente e não possui vínculo, afiliação, patrocínio ou endosso da Ashborne Games ou da THQ Nordic.
 
 ---
 
